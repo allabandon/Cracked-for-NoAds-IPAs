@@ -1,6 +1,6 @@
-## iOS-DumpDecrypted-IPAs
+## DumpDecrypted IPAs | WeChat
 
-**`由于Github大小限制，DumpDecrypted-IPAs详见下方`**
+**`由于Github大小限制, IPAs详见下方`**
 
 `带*号的表示PlugIns也一并解密并且已禁用AppThinning`
 
